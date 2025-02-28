@@ -17,9 +17,9 @@ beian:
   url: https://beian.miit.gov.cn/
 
 # Miscellaneous
-favicon: /rs/logo.png
+favicon: /rs/favicon.png
 webclip: /images/webclip
-brand:   /images/brand.svg
+brand:   /rs/logo.png
 
 # Jumbotron video & Hero image & Swiper
 ## Jumbotron video
